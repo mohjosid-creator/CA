@@ -1,0 +1,6 @@
+{
+  "name": "Dettack · Attack Surface Management",
+  "description": "Continuous discovery, exposure mapping, and vulnerability scanning. Built for defenders who need answers, not noise.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
